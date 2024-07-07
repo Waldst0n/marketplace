@@ -1,7 +1,7 @@
 package com.waldstonsantana.marketplace.controllers.handlers;
 
-import com.waldstonsantana.marketplace.dtos.CustomError;
-import com.waldstonsantana.marketplace.dtos.ValidationError;
+import com.waldstonsantana.marketplace.dtos.errors.CustomError;
+import com.waldstonsantana.marketplace.dtos.errors.ValidationError;
 import com.waldstonsantana.marketplace.services.exceptions.DataBaseException;
 import com.waldstonsantana.marketplace.services.exceptions.ResourceNotFoundException;
 import jakarta.servlet.http.HttpServletRequest;

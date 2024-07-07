@@ -1,4 +1,4 @@
-package com.waldstonsantana.marketplace.dtos;
+package com.waldstonsantana.marketplace.dtos.errors;
 
 public class FieldMessage  {
 
